@@ -1,3 +1,11 @@
 # Project-1
 
-In project-1 **AWS lambda function** is deployed from **Terraform**
+**AWS *lambda* function** is deployed using **Terraform**
+
+## Plan
+
+ - Create Lambda function
+ - Create Role
+ - Create Policy
+ - Trigger lambda function from ses
+ - logs in CloudWatch
