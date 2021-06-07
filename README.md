@@ -2,10 +2,10 @@
 
 **AWS *lambda* function** is deployed using **Terraform**
 
-## Plan
+## Input
 
- - Create Lambda function
- - Create Role
- - Create Policy
- - Trigger lambda function from ses
- - logs in CloudWatch
+Message from SQS
+
+## Output 
+
+Upload Message in JSON file to S3 bucket
