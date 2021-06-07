@@ -8,4 +8,4 @@ Message from SQS
 
 ## Output 
 
-Upload Message in JSON file to S3 bucket
+Upload Message as JSON file to S3 bucket
